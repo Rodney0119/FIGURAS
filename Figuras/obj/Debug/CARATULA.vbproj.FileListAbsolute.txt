@@ -1,0 +1,16 @@
+C:\Users\Rodney\Downloads\PROGRAMACION VISUAL\Figuras\bin\Debug\Figuras.exe.config
+C:\Users\Rodney\Downloads\PROGRAMACION VISUAL\Figuras\bin\Debug\Figuras.exe
+C:\Users\Rodney\Downloads\PROGRAMACION VISUAL\Figuras\bin\Debug\Figuras.pdb
+C:\Users\Rodney\Downloads\PROGRAMACION VISUAL\Figuras\bin\Debug\Figuras.xml
+C:\Users\Rodney\Downloads\PROGRAMACION VISUAL\Figuras\obj\Debug\Figuras.Form1.resources
+C:\Users\Rodney\Downloads\PROGRAMACION VISUAL\Figuras\obj\Debug\Figuras.Form2.resources
+C:\Users\Rodney\Downloads\PROGRAMACION VISUAL\Figuras\obj\Debug\Figuras.Resources.resources
+C:\Users\Rodney\Downloads\PROGRAMACION VISUAL\Figuras\obj\Debug\CARATULA.vbproj.GenerateResource.cache
+C:\Users\Rodney\Downloads\PROGRAMACION VISUAL\Figuras\obj\Debug\CARATULA.vbproj.CoreCompileInputs.cache
+C:\Users\Rodney\Downloads\PROGRAMACION VISUAL\Figuras\obj\Debug\Figuras.exe
+C:\Users\Rodney\Downloads\PROGRAMACION VISUAL\Figuras\obj\Debug\Figuras.xml
+C:\Users\Rodney\Downloads\PROGRAMACION VISUAL\Figuras\obj\Debug\Figuras.pdb
+C:\Users\Rodney\Downloads\PROGRAMACION VISUAL\Figuras\obj\Debug\CARATULA.vbprojAssemblyReference.cache
+C:\Users\Rodney\Downloads\PROGRAMACION VISUAL\Figuras\obj\Debug\Figuras.CIRCULO.resources
+C:\Users\Rodney\Downloads\PROGRAMACION VISUAL\Figuras\obj\Debug\Figuras.RECTANGULO.resources
+C:\Users\Rodney\Downloads\PROGRAMACION VISUAL\Figuras\obj\Debug\Figuras.TRIANGULO.resources

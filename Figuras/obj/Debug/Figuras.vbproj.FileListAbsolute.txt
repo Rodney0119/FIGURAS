@@ -1,0 +1,12 @@
+C:\Users\Rodney\Downloads\PROGRAMACION VISUAL\Figuras\bin\Debug\Figuras.exe.config
+C:\Users\Rodney\Downloads\PROGRAMACION VISUAL\Figuras\bin\Debug\Figuras.exe
+C:\Users\Rodney\Downloads\PROGRAMACION VISUAL\Figuras\bin\Debug\Figuras.pdb
+C:\Users\Rodney\Downloads\PROGRAMACION VISUAL\Figuras\bin\Debug\Figuras.xml
+C:\Users\Rodney\Downloads\PROGRAMACION VISUAL\Figuras\obj\Debug\Figuras.vbprojAssemblyReference.cache
+C:\Users\Rodney\Downloads\PROGRAMACION VISUAL\Figuras\obj\Debug\Figuras.Form1.resources
+C:\Users\Rodney\Downloads\PROGRAMACION VISUAL\Figuras\obj\Debug\Figuras.Resources.resources
+C:\Users\Rodney\Downloads\PROGRAMACION VISUAL\Figuras\obj\Debug\Figuras.vbproj.GenerateResource.cache
+C:\Users\Rodney\Downloads\PROGRAMACION VISUAL\Figuras\obj\Debug\Figuras.vbproj.CoreCompileInputs.cache
+C:\Users\Rodney\Downloads\PROGRAMACION VISUAL\Figuras\obj\Debug\Figuras.exe
+C:\Users\Rodney\Downloads\PROGRAMACION VISUAL\Figuras\obj\Debug\Figuras.xml
+C:\Users\Rodney\Downloads\PROGRAMACION VISUAL\Figuras\obj\Debug\Figuras.pdb
